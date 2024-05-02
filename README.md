@@ -24,6 +24,7 @@ This is a recreation of Google's "Quick Draw!" Game.
 ### If auto-guess is on the model will guess your drawing at the end of each drawing stroke.
 ### To manually guess you click Guess.
 ### You can also clear your canvas by clicking Clear.
+### NOTE - The prediction appears on the top of the screen under "Pictionary AI".
 
 <img width="350" alt="Screen Shot 2024-05-02 at 12 21 45 PM" src="https://github.com/AnthonyValle/Pictionary-AI/assets/66498197/1c804d9d-552f-4f71-bb9f-f5044ba25642">
 
